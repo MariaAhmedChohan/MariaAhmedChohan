@@ -1,7 +1,7 @@
 ﻿# Hi, I'm Maria Chohan :wave:
 
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/MariaChohangitpush.png)
+![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/MariaChohangithub.png)
 <h1 align="center">Hi 👋, I'm Maria Chohan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
