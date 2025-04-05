@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Maria Chohan :wave:
 
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+
 ![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/MariaChohangithub.png)
 
 <img src="/MariaAhmedChohan/MariaChohangithub.png" alt="" >
