@@ -1,7 +1,7 @@
 ﻿# Hi, I'm Maria Chohan :wave:
 
 
-![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/MariaChohangithub.png)
+![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/blob/main/MariaChohangithub.png)
 
 <img src="/MariaAhmedChohan/MariaChohangithub.png" alt="" >
 
