@@ -1,5 +1,5 @@
 ﻿# Hi, I'm Maria Chohan :wave:
-![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/blob/main/MariaChohangithub.png)
+![logo](https://github.com/MariaAhmedChohan/MariaAhmedChohan/blob/main/MariaChohan(1).png)
 
 <h1 align="center">Hi 👋, I'm Maria Chohan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
