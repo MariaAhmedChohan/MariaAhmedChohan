@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Maria Chohan</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/MariaAhmedChohan/MariaAhmedChohan/blob/main/MariaChohan.png">
+<img align="right" alt="coding" width="200" hight="100" src="https://github.com/MariaAhmedChohan/MariaAhmedChohan/blob/main/MariaChohan.png">
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="Maria Chohan" /> </p>
 
